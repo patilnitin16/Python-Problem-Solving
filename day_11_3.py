@@ -20,8 +20,6 @@ Task
 You are given three integers: , , and . Print two lines.
 On the first line, print the result of pow(a,b). On the second line, print the result of pow(a,b,m).
 
-
-
 '''
 
 #Code
