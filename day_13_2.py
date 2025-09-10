@@ -9,7 +9,7 @@ A = [1, 2]
 B = [3, 4]
 
 AxB = [(1, 3), (1, 4), (2, 3), (2, 4)]
-Note: A and B are sorted lists, and the cartesian product's tuples should be output in sorted order.
+Note: A and Bare sorted lists, and the cartesian product's tuples should be output in sorted order.
 
 '''
 
