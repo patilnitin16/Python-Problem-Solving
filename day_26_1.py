@@ -5,7 +5,7 @@ A valid hex color code:
 
 Starts with #.
 
-Followed by either 3 or 6 hexadecimal characters (0–9, a–f, A–F).
+Followed by either 3 or 6 hexadecimal characters (0 to 9, a to f, A to F).
 
 Appears only in CSS property values (after :, ,, or whitespace).
 
