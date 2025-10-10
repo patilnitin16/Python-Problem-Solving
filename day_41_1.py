@@ -4,7 +4,6 @@ Each row contains M space-separated integers.
 You are also given an integer K, representing the column index (0-based).
 
 Your task is to sort the rows of the matrix in ascending order based on the values in the K-th column, and then print the resulting matrix.
-
 '''
 
 #Code
