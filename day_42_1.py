@@ -6,8 +6,7 @@ An email address is valid if it meets all these conditions:
 It must be in the format username@websitename.extension
 The username:can only contain letters, digits, underscores (_), and hyphens (-)
 The websitename:can only contain letters and digits
-The extension:can only contain letters
-must be 3 characters or fewer
+The extension:can only contain letters must be 3 characters or fewer
 '''
 #Code
 def fun(s):
@@ -33,7 +32,6 @@ if __name__ == '__main__':
     emails = []
     for _ in range(n):
         emails.append(input())
-
 filtered_emails = filter_mail(emails)
 filtered_emails.sort()
 print(filtered_emails)
